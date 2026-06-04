@@ -1,0 +1,4 @@
+com\lab5\manager\UserManager.class
+com\lab5\test\UserTest.class
+com\lab5\web\UserServlet.class
+com\lab5\entity\User.class
